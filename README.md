@@ -1,4 +1,5 @@
-![biglogo](https://user-images.githubusercontent.com/65795036/184995723-4f4ed329-9fc7-4daa-96a7-50b078dc3f29.png)
+
+![biglogo](https://user-images.githubusercontent.com/65795036/184995847-079ae257-132a-45c7-9736-8bb025b35008.png)
 
 
 [INEX](https://www.inex.ie/) are pleased to release [IXP Manager](http://www.ixpmanager.org/) under an open source license (the
