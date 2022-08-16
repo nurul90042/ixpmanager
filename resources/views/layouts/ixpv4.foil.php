@@ -19,7 +19,7 @@
 
         <link rel="stylesheet" type="text/css" href="<?= url ('') . mix('css/ixp-pack.css') ?>" />
 
-        <link rel="shortcut icon" type="image/ico" href="<?= file_exists( base_path( 'public/images/six/xxArtboard 1 copy 15@3x' ) ) ? asset( "xxArtboard 1 copy 15@3x" ) : asset( "xxArtboard 1 copy 15@3x.png" ) ?>" />
+        <link rel="shortcut icon" type="image/ico" href="<?= file_exists( base_path( 'public/images/six/' ) ) ? asset( "xxArtboard 1 copy 15@3x" ) : asset( "xxArtboard 1 copy 15@3x.png" ) ?>" />
 
         <?php $this->section('headers') ?>
         <?php $this->stop() ?>
