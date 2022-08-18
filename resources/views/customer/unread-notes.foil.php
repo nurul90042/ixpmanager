@@ -35,7 +35,7 @@
             <?= $t->alerts() ?>
             <?php if( count( $t->notes ) ): ?>
                 <table class="table table-striped table-responsive-ixp" id="list-table-notes" width="100%">
-                    <thead class="thead-dark">
+                    <thead class="thead-light">
                         <th>
                             Customer
                         </th>

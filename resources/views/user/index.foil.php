@@ -27,7 +27,7 @@
             <?= $t->alerts() ?>
 
             <table id='table-list' class=" table table-striped" width="100%">
-                <thead class="thead-dark">
+                <thead class="thead-light">
                     <tr>
                         <th>
                             Name

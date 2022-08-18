@@ -12,7 +12,7 @@
         <div class="col-sm-12">
             <?= $t->alerts() ?>
             <table id='table-vli' class="table table-striped table-responsive-ixp-with-header collapse w-100">
-                <thead class="thead-dark">
+                <thead class="thead-light">
                     <tr>
                         <th>
                             <?= ucfirst( config( 'ixp_fe.lang.customer.one' ) ) ?>

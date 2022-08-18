@@ -9,7 +9,7 @@
     </div>
 
     <table  class="table table-sm table-hover" >
-        <thead class="thead-dark">
+        <thead class="thead-light">
             <tr>
                 <th>
                     Name

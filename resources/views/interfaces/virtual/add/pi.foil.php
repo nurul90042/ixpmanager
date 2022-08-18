@@ -31,7 +31,7 @@
             <?php endif; ?>
 
             <table id="table-pi" class="table table-striped table-responsive-ixp-no-header">
-                <thead class="thead-dark">
+                <thead class="thead-light">
                     <tr>
                         <th>
                             Facility

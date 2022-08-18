@@ -4,7 +4,7 @@
 ?>
 
 <table class="table table-striped table-responsive-ixp collapse w-100">
-    <thead class="thead-dark">
+    <thead class="thead-light">
         <tr>
             <th>
                 VLAN

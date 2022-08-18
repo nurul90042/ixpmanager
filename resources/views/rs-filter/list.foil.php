@@ -41,7 +41,7 @@
 
             <?php if( $t->rsFilters->count() ): ?>
                 <table id='table-list' class="table table-striped table-responsive-ixp-with-header" width="100%">
-                    <thead class="thead-dark">
+                    <thead class="thead-light">
                         <tr>
                             <th>
                                 Peer

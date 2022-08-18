@@ -2,7 +2,7 @@
     $c = $t->c; /** @var $c \IXP\Models\Customer */
 ?>
 <table class="table table-striped table-responsive-ixp-action collapse w-100">
-    <thead class="thead-dark">
+    <thead class="thead-light">
     <tr>
         <th>
             Username

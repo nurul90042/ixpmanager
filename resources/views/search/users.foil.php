@@ -3,7 +3,7 @@
         Users
     </h3>
     <table class="table table-striped w-100">
-        <thead class="thead-dark">
+        <thead class="thead-light">
             <tr>
                 <th>
                     Username (history)

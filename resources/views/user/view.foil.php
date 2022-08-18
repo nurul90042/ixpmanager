@@ -148,7 +148,7 @@
                                 <tr>
                                     <td colspan="2">
                                         <table class="table table-striped w-100">
-                                            <thead class="thead-dark">
+                                            <thead class="thead-light">
                                                 <th>
                                                     <?= ucfirst( config( 'ixp_fe.lang.customer.one' ) ) ?>
                                                 </th>

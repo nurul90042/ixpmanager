@@ -77,7 +77,7 @@
             </nav>
 
             <table id="ixpDataTable" class="table table-striped table-bordered collapse" style="width:100%">
-                <thead class="thead-dark">
+                <thead class="thead-light">
                     <tr>
                         <th><?= ucfirst( config( 'ixp_fe.lang.customer.one' ) ) ?></th>
                         <th>Switch</th>

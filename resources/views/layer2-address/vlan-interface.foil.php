@@ -52,7 +52,7 @@
 
             <div id="list-area" class="collapse">
                 <table id='layer-2-interface-list' class="table table-striped w-100">
-                    <thead class="thead-dark">
+                    <thead class="thead-light">
                         <tr>
                             <th>
                                 MAC Address

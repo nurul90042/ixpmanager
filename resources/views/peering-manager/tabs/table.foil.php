@@ -1,7 +1,7 @@
 <div class="row">
     <div class="col-sm-12">
         <table class="table table-bordered table-striped collapse" style="width: 100%">
-            <thead class="thead-dark">
+            <thead class="thead-light">
                 <tr>
                     <th>
                         Member

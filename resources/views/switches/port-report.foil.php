@@ -29,7 +29,7 @@
     <div class="row">
         <div class="col-sm-12">
             <table id="list-port" class="collapse table table-striped table-bordered" width="100%">
-                <thead class="thead-dark">
+                <thead class="thead-light">
                     <tr>
                         <th>
                             ID

@@ -20,7 +20,7 @@
     </div>
 
     <table id="table-list" class="table collapse table-striped table-responsive-ixp-with-header w-100">
-        <thead class="thead-dark">
+        <thead class="thead-light">
             <tr>
                 <th>
                     <?= ucfirst( config( 'ixp_fe.lang.customer.one' ) ) ?>

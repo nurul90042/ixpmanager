@@ -71,7 +71,7 @@
             <?php endif; ?>
 
             <table id="list-port" class="table table-bordered table-hover">
-                <thead class="thead-dark">
+                <thead class="thead-light">
                     <tr>
                         <th>
                             <div class="d-flex">

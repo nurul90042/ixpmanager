@@ -65,7 +65,7 @@
                     <?php if( $t->data[ 'view' ]['listHeadOverride'] ): ?>
                         <?= $t->insert( $t->data[ 'view' ]['listHeadOverride'] ) ?>
                     <?php else: ?>
-                        <thead class="thead-dark">
+                        <thead class="thead-light">
                             <tr>
                                 <?php foreach( $t->feParams->listColumns as $col => $cconf ):?>
 

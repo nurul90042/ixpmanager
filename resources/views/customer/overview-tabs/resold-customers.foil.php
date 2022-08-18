@@ -1,5 +1,5 @@
 <table class="w-100 table table-striped table-responsive-ixp collapse">
-    <thead class="thead-dark">
+    <thead class="thead-light">
         <tr>
             <th>
                 Name

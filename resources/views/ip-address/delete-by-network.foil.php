@@ -65,7 +65,7 @@
                     </div>
                     <div class="card-body">
                         <table id='table-ip' class="table table-striped" width="100%">
-                            <thead class="thead-dark">
+                            <thead class="thead-light">
                                 <tr>
                                     <th>
                                         IP Addresses

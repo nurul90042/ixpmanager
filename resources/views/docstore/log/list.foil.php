@@ -43,7 +43,7 @@
 
             <div class="tw-mt-8">
                 <table id="table-logs" class="table collapse table-striped">
-                    <thead class="thead-dark">
+                    <thead class="thead-light">
                         <tr>
                             <th>
                                 Downloaded By

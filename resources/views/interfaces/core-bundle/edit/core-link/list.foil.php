@@ -44,7 +44,7 @@
             </table>
 
             <table id="table-core-link" class="table table-bordered table-striped table-responsive-ixp-no-header" width="100%">
-                <thead class="thead-dark">
+                <thead class="thead-light">
                     <tr>
                         <th>
                             Number

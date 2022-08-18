@@ -81,7 +81,7 @@
                 <?php endif; ?>
             <?php else: ?>
                 <table id='ip-address-list' class="table collapse table-stripped" width="100%">
-                    <thead class="thead-dark">
+                    <thead class="thead-light">
                         <tr>
                             <th>
                                 IP Address

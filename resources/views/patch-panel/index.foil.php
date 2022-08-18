@@ -105,7 +105,7 @@
                 </div>
             <?php else:  /* !count( $t->patchPanels ) */ ?>
                 <table id='patch-panel-list' class="table collapse table-striped table-responsive-ixp-with-header" width="100%">
-                    <thead class="thead-dark">
+                    <thead class="thead-light">
                         <tr>
                             <th>
                                 Name

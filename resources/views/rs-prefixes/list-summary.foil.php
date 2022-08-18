@@ -1,5 +1,5 @@
 <table class="table collapse table-striped w-100" id="summary-table-<?= $t->type ?>">
-    <thead class="thead-dark">
+    <thead class="thead-light">
         <th>
             <?= ucfirst( config( 'ixp_fe.lang.customer.one' ) ) ?>
         </th>

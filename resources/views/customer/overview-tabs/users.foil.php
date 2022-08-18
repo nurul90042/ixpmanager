@@ -3,7 +3,7 @@
     $isSuperUser = $t->isSuperUser;
 ?>
 <table class="table tw-border-1 tw-border-grey-light tw-shadow-md table-striped table-responsive-ixp-action collapse w-100">
-    <thead class="thead-dark">
+    <thead class="thead-light">
         <tr>
             <th>
                 Name

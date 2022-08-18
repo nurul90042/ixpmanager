@@ -1,5 +1,5 @@
 <table class="w-100 table table-striped table-note <?php if( !$t->notes->count() ): ?>collapse <?php endif; ?>" id="co-notes-table">
-    <thead class="thead-dark">
+    <thead class="thead-light">
         <tr>
             <th>
                 Title

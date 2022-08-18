@@ -57,7 +57,7 @@
                 </p>
 
                 <table class="table">
-                    <thead class="thead-dark">
+                    <thead class="thead-light">
                         <th>Prefix</th>
                         <th>Filtered Because</th>
                         <th>Filtered On Router(s)</th>

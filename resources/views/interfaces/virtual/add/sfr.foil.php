@@ -19,7 +19,7 @@
         <div class="col-md-12 table">
             <?php if( $t->vi->sflowReceivers()->count() ): ?>
                 <table id="table-sflr" class="table table-striped table-responsive-ixp-no-header">
-                    <thead class="thead-dark">
+                    <thead class="thead-light">
                         <tr>
                             <th>
                                 Target IP

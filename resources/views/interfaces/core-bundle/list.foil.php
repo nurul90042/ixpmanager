@@ -23,7 +23,7 @@
         <div class="col-sm-12">
             <?= $t->alerts() ?>
             <table id='table-cb' class="table collapse table-striped w-100">
-                <thead class="thead-dark">
+                <thead class="thead-light">
                     <tr>
                         <th>
                             Description

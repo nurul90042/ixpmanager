@@ -18,7 +18,7 @@
     <h3><?= count( $t->results['aonly'] ) ?> Network(s) only at <?= request()->input( 'sourcea_dd' ) ?>:</h3>
 
     <table id="aonly" class="table table-striped table-responsive-ixp-with-header w-100">
-        <thead class="thead-dark">
+        <thead class="thead-light">
             <tr>
                 <th>Name</th>
                 <th>ASN</th>
@@ -46,7 +46,7 @@
     <h3><?= count( $t->results['bonly'] ) ?> Network(s) only at <?= request()->input( 'sourceb_dd' ) ?>:</h3>
 
     <table id="bonly" class="table table-striped table-responsive-ixp-with-header w-100">
-        <thead class="thead-dark">
+        <thead class="thead-light">
         <tr>
             <th>Name</th>
             <th>ASN</th>
@@ -74,7 +74,7 @@
     <h3><?= count( $t->results['shared'] ) ?> Network(s) at both <?= request()->input( 'sourcea_dd' ) ?> and <?= request()->input( 'sourceb_dd' ) ?>:</h3>
 
     <table id="shared" class="table table-striped table-responsive-ixp-with-header w-100">
-        <thead class="thead-dark">
+        <thead class="thead-light">
             <tr>
                 <th>Name</th>
                 <th>ASN</th>

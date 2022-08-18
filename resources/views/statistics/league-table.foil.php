@@ -60,7 +60,7 @@
             </nav>
 
             <table id="ixpDataTable" class="table table-striped table-bordered collapse" style="width:100%">
-                <thead class="thead-dark">
+                <thead class="thead-light">
                     <tr>
                         <th></th>
                         <th></th>

@@ -4,7 +4,7 @@
     <?php $this->append() ?>
 <?php $this->section('content') ?>
     <table class="table table-striped table-sm text-monospace" style="font-size: 14px;width: 100%;" id="bgpsummary">
-        <thead class="thead-dark">
+        <thead class="thead-light">
             <tr>
                 <th>
                     Neighbor

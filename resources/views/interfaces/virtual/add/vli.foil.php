@@ -19,7 +19,7 @@
     <div  class="col-md-12">
         <?php if( $t->vi->vlanInterfaces()->count()  ) : ?>
             <table id="table-vli" class="table table-striped table-responsive-ixp-no-header">
-                <thead class="thead-dark">
+                <thead class="thead-light">
                     <tr>
                         <th>
                             VLAN Name

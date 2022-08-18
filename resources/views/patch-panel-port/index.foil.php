@@ -54,7 +54,7 @@
             <span id="message-ppp"></span>
 
             <table id='table-ppp' class="collapse table table-striped" width="100%">
-                <thead class="thead-dark">
+                <thead class="thead-light">
                     <tr>
                         <th>
                             Id

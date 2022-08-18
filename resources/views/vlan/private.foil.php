@@ -32,7 +32,7 @@
             <?php endif; ?>
 
             <table id="table-list" class="table collapse table-striped w-100">
-                <thead class="thead-dark">
+                <thead class="thead-light">
                     <tr>
                         <th>
                             VLAN Name

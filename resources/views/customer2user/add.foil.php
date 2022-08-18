@@ -48,7 +48,7 @@
                 </h4>
 
                 <table id="list-user" class="table table-striped table-hover" width="100%">
-                    <thead class="thead-dark">
+                    <thead class="thead-light">
                         <tr>
                             <th></th>
                             <th>

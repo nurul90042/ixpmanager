@@ -81,7 +81,7 @@
               </div>
           <?php endif; ?>
           <table id='irrdb-list' class="table collapse table-striped table-responsive-ixp-with-header" width="100%">
-              <thead class="thead-dark">
+              <thead class="thead-light">
                   <tr>
                       <th>
                           <?= $t->type === "asn" ? 'ASN' : 'Prefix' ?>

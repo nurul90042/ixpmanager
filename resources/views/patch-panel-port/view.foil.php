@@ -546,7 +546,7 @@
                                             <div class="card-body">
                                                 <?php if( $listFile->count() > 0 ): ?>
                                                     <table class="table table-bordered table-striped table-responsive-ixp-no-header w-100">
-                                                        <thead class="thead-dark">
+                                                        <thead class="thead-light">
                                                             <tr>
                                                                 <th>
                                                                     Name

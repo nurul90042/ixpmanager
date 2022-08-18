@@ -95,7 +95,7 @@
                             <div id="extra-message"></div>
 
                             <table class="table table-striped mt-4 collapse">
-                                <thead class="thead-dark">
+                                <thead class="thead-light">
                                     <tr>
                                         <th>
                                             <?= ucfirst( config( 'ixp_fe.lang.customer.one' ) ) ?>

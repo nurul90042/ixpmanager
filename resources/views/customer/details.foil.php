@@ -19,7 +19,7 @@
             <?= $t->alerts() ?>
 
             <table id='customer-list' class="table table-hover ixpm-table">
-                <thead class="thead-dark">
+                <thead class="thead-light">
                     <tr>
                         <th>
                             <?= ucfirst( config( 'ixp_fe.lang.customer.one' ) ) ?>

@@ -1,6 +1,6 @@
 <div class="col-sm-12 mt-4">
     <table id="peers-table" class="table peers-table table-striped w-100">
-        <thead class="thead-dark">
+        <thead class="thead-light">
             <tr>
                 <th>
                     Name

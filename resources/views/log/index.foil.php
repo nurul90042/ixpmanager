@@ -62,7 +62,7 @@ $this->layout( 'layouts/ixpv4' );
             </div>
         </nav>
         <table id='log-list' class="table table-striped table-responsive-ixp-with-header" width="100%">
-            <thead class="thead-dark">
+            <thead class="thead-light">
                 <tr>
                     <th>
                         Model

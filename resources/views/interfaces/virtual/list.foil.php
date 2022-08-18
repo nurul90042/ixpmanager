@@ -30,7 +30,7 @@
         <div class="col-sm-12">
             <?= $t->alerts() ?>
             <table id='table-vi' class="collapse table table-stripped no-wrap table-responsive-ixp-with-header w-100">
-                <thead class="thead-dark">
+                <thead class="thead-light">
                     <tr>
                         <th>
                             <?= ucfirst( config( 'ixp_fe.lang.customer.one' ) ) ?>
