@@ -2,6 +2,11 @@
 ![biglogo](https://user-images.githubusercontent.com/65795036/184995847-079ae257-132a-45c7-9736-8bb025b35008.png)
 
 
+
+**NOTE:
+For fixing bug at switch CE6800 we need to change OID_SYSTEM_SOFTWARE_VERSION at vendor/opensolutions/oss-snmp/src/OSS_SNMP/MIBS/Huawei/System.php with snmpwalk -v 2c -c $community $hostname .1.3.6.1.4.1.2011.6.3.11.1.0
+
+
 [INEX](https://www.inex.ie/) are pleased to release [IXP Manager](http://www.ixpmanager.org/) under an open source license (the
 GNU Public License V2) which we hope will benefit the wider IXP community,
 and especially new and small IXPs looking to expand.
