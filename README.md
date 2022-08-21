@@ -4,7 +4,10 @@
 
 
 **NOTE:
-For fixing bug at switch CE6800 we need to change OID_SYSTEM_SOFTWARE_VERSION at vendor/opensolutions/oss-snmp/src/OSS_SNMP/MIBS/Huawei/System.php with snmpwalk -v 2c -c $community $hostname .1.3.6.1.4.1.2011.6.3.11.1.0
+For fixing bug at switch CE6800 we need to change OID_SYSTEM_SOFTWARE_VERSION 
+at vendor/opensolutions/oss-snmp/src/OSS_SNMP/MIBS/Huawei/System.php with :
+
+snmpwalk -v 2c -c $community $hostname .1.3.6.1.4.1.2011.6.3.11.1.0
 
 
 [INEX](https://www.inex.ie/) are pleased to release [IXP Manager](http://www.ixpmanager.org/) under an open source license (the
