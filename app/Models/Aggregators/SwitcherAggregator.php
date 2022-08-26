@@ -257,7 +257,7 @@ class SwitcherAggregator extends Switcher
             $ports[ $index ][ 'type' ]             = SwitchPort::$TYPES[ $port[ 'porttype' ] ];
             $ports[ $index ][ 'spname-sptype' ]    = $port[ "name" ] . ' (' . SwitchPort::$TYPES[ $port[ 'porttype' ] ] . ')';
         }
-
+        print_r($ports);
         return $ports;
     }
 
