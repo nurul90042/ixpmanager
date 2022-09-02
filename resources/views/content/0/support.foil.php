@@ -22,7 +22,7 @@
         Technical Support: <a href="mailto:hello@superxchange.net">hello@superxchange.net</a>
         &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
         Peering: <a href="mailto:peering@supexchange.net">peering@supexchange.net</a>
-        &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+       
         
     </h4>
 </div>
