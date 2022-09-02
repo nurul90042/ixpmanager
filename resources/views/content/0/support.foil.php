@@ -10,33 +10,32 @@
 
 <?php $this->section('content') ?>
 
-<div class="alert alert-danger">
+<!-- <div class="alert alert-danger">
     Please see the official IXP Manager documentation on
     <a target="_blank" href="http://docs.ixpmanager.org/features/static-content/">static content here</a>
     for information and instructions on how to customise this page.
-</div>
+</div> -->
 
 
 <div class="alert alert-info">
     <h4 align="center">
-        Technical Support: <a href="mailto:email@example.com">email@example.com</a>
+        Technical Support: <a href="mailto:hello@superxchange.net">hello@superxchange.net</a>
         &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-        Billing / Accounts: <a href="mailto:email@example.com">email@example.com</a>
+        Peering: <a href="mailto:peering@supexchange.net">peering@supexchange.net</a>
         &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-        Sales / Marketing: <a href="mailto:email@example.com">email@example.com</a>
+        
     </h4>
 </div>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tristique diam pretium ipsum fermentum ut sollicitudin mauris blandit. Mauris luctus, ipsum id feugiat bibendum, felis nulla dignissim sem, vehicula sollicitudin tortor turpis ut eros. Sed sit amet orci arcu, et varius velit. Vestibulum et nulla tortor, quis tincidunt augue. Vestibulum fringilla tempus faucibus. Donec non mauris neque. Nam urna odio, facilisis id tincidunt eu, dictum sed sapien. Pellentesque porttitor viverra nunc a porttitor. Fusce tempor, elit tempus dignissim accumsan, nisi metus eleifend ipsum, vel pellentesque lectus dolor at orci. Suspendisse potenti.
+Super Internet Exchange (SUPERXCHANGE / SIX) dengan AS138608 merupakan pilihan terbaik bagi ISP, Telco dan Content Providers untuk menghubungkan jaringan mereka ke Internet atau ke pelanggan. SIX merupakan jaringan Internet Exchange komersial yang netral di Indonesia. Anda dapat mendapatkan keuntungan dengan pilihan interkoneksi yang lebih, beberapa koneksi peering dan transit hanya dengan satu koneksi.
+<br /><br />
+SIX ditempatkan di IDCloudHost Data Center untuk memberikan keamanan dan kehandalan terbaik. Didukung oleh Network Engineer bersertifikat, kami memastikan jaringan ini berjalan dengan SLA tertinggi untuk mensupport bisnis Anda.
+<br /><br />
+Kami melakukan interkoneksi ISP, carrier internasional, operator mobile, penyelenggara konten, penyelenggara VoIP, penyelenggara aplikasi, penyelenggara web hosting dan bisnis lain yang berhubungan - seluruhnya tergabung menjadi satu Internet Exchange: SIX.
 <br /><br />
 </p>
 
-<h3>Emergency 24x7x365 Support</h3>
-
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tristique diam pretium ipsum fermentum ut sollicitudin mauris blandit. Mauris luctus, ipsum id feugiat bibendum, felis nulla dignissim sem, vehicula sollicitudin tortor turpis ut eros. Sed sit amet orci arcu, et varius velit. Vestibulum et nulla tortor, quis tincidunt augue. Vestibulum fringilla tempus faucibus. Donec non mauris neque. Nam urna odio, facilisis id tincidunt eu, dictum sed sapien. Pellentesque porttitor viverra nunc a porttitor. Fusce tempor, elit tempus dignissim accumsan, nisi metus eleifend ipsum, vel pellentesque lectus dolor at orci. Suspendisse potenti.
-</p>
 
 <br /><br />
 
@@ -51,15 +50,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tristique diam 
         <td></td>
         <td align="right"><strong>Email:</strong></td>
         <td></td>
-        <td align="left"><a href="mailto:email@example.com">email@example.com</a></td>
+        <td align="left"><a href="mailto:hello@superxchange.net">hello@superxchange.net</a></td>
+        <td align="left"><a href="mailto:hello@superxchange.net">peering@superxchange.net</a></td>
     </tr>
     <tr>
         <td></td>
         <td align="right"><strong>Phone:</strong></td>
         <td></td>
-        <td align="left">+353 1 123 4567</td>
+        <td align="left">021 4000995 ext.3</td>
     </tr>
-    <tr>
+    <!-- <tr>
         <td></td>
         <td align="right"><strong>Hours:</strong></td>
         <td></td>
@@ -70,7 +70,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tristique diam 
         <td align="right"><strong>24h Emergency:</strong></td>
         <td></td>
         <td align="left">+353 1 987 6541</td>
-    </tr>
+    </tr> -->
     </table>
 </div>
 
