@@ -19,7 +19,7 @@
 
         <link rel="stylesheet" type="text/css" href="<?= url ('') . mix('css/ixp-pack.css') ?>" />
 
-        <link rel="shortcut icon" type="image/ico" href="<?= file_exists( base_path( 'public/favicon.ico' ) ) ? asset( "favicon.ico" ) : asset( "favicon.ico.dist" ) ?>" />
+        <link rel="shortcut icon" type="image/ico" href="<?= file_exists( base_path( 'public/images/favicon.ico' ) ) ? asset( "favicon.ico" ) : asset( "favicon.ico.dist" ) ?>" />
 
         <?php $this->section('headers') ?>
         <?php $this->stop() ?>
