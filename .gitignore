@@ -11,7 +11,7 @@ bin/fixtures.php
 public/.htaccess
 public/logos/*
 
-public/favicon.ico
+
 
 .directory
 .DS_Store
