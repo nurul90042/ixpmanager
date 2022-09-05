@@ -30,29 +30,44 @@
 <p>
 Super Internet eXchange (SIX) adalah ekosistem digital yang memiliki visi untuk mengoneksikan seluruh entitas Network Access / Internet / Content Service Provider, Instansi Pemerintah serta Institusi Pendidikan agar dapat diakses lebih mudah, cepat dan terjangkau. SIX merupakan Internet Exchange yang netral di Indonesia.
 <br /><br />
-<h3>PoP utama kami berlokasi di IDCloudHost Data Center, Bogor. </h3>
+<h3>PoP utama berlokasi di <a href=https://www.peeringdb.com/fac/12199>IDCloudHost Data Center</a>, Bogor. </h3>
+informasi selengkapnya <a href=https://idcloudhost.com/data-center>https://idcloudhost.com/data-center</a>
+<br>
 <br>
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15853.047542811933!2d106.8143998!3d-6.6143495!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x84f4341fefae5bfd!2sIDCloudHost%20Data%20Center!5e0!3m2!1sid!2sid!4v1662123619281!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<br /><br />
-Satellite PoP (Point of Presence) via peering member :
+<br />
+<b>Satellite PoP (Point of Presence) via peering member :</b>
 <br>
- - Gedung Cyber Lt. 1 (APJII) -  IDCloudHost
 <br>
- - Indonesia Data Center - Duren3 - IDCloudHost 
+ - Gedung Cyber Lt. 1 (APJII) -  IDCloudHost / Abhinawa
+<br>
+ - Indonesia Data Center - Duren3 - IDCloudHost / Abhinawa
 <br>
  - Balitower DC - IDCloudHost
 <br>
- - DCI Indonesia - IDCloudHost
+ - AtriaDC (Space DC) - IDCloudHost
 <br>
- - NeucentrIX DC - Karet Tengsin - IDCloudHost
+ - DCI Indonesia - IDCloudHost / Abhinawa
 <br>
- - AtriaDC - IDCloudHost
+ - NeuCentrIX DC - Karet Tengsin - IDCloudHost / Abhinawa
 <br>
- - Wisma Bumiputera (BBU) - Bandung - Jembatan Data Pangrango (coming soon)
+ - NeuCentrIX DC - Bandung - Abhinawa
 <br>
- - BITC Cimahi - Bandung - SIDNet (coming soon)
+ - NeuCentrIX DC - Surabaya - Abhinawa
 <br>
- - JDP Server Room - Sukabumi - Jembatan Data Pangrango (coming soon)
+ - NeuCentrIX DC - Makassar - Abhinawa
+<br>
+ - NeuCentrIX DC - Medan - Abhinawa
+<br>
+ - NeuCentrIX DC - Balikpapan - Abhinawa
+<br>
+ - EdgeDC Tendean - Abhinawa
+<br>
+ - <b><i>(coming soon)</i></b> - Wisma Bumiputera (BBU) - Bandung - Jembatan Data Pangrango
+<br>
+ - <b><i>(coming soon)</i></b> - BITC Cimahi - Bandung - SIDNet
+<br>
+ - <b><i>(coming soon)</i></b> - JDP Server Room - Sukabumi - Jembatan Data Pangrango
 <br>
 
 <br /><br />

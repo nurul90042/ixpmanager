@@ -74,12 +74,6 @@ function ixp_community_filter(int peerasn)
             return true;
 
     # Implement widely used community filtering schema.
-    if (0, peerasn) ~ bgp_community then
-            return false;
-    if (routeserverasn, peerasn) ~ bgp_community then
-            return true;
-    if (0, routeserverasn) ~ bgp_community then
-            return false;
 
     return true;
 }
