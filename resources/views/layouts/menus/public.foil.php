@@ -120,6 +120,11 @@
                     Support
                 </a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link <?= !request()->is( 'public-content/joinus' ) ?: 'active' ?>" href="<?= route( 'public-content', [ 'page' => 'joinus' ] ) ?>">
+                    How To Join Us
+                </a>
+            </li>
         </ul>
         <ul class="navbar-nav mt-lg-0">
             <li class="nav-item">
