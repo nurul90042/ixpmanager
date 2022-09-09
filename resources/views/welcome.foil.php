@@ -16,7 +16,9 @@
     <!-- Bootstrap core CSS -->
     <link href="<?= url ('') . mix('vendor/bootstrap/css/bootstrap.min.css') ?>" rel="stylesheet">
 
-
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="<?= asset( "images/six/header1.png" ) ?>" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="<?= asset( "images/six/header1.png" ) ?>">
     <!-- Additional CSS Files -->
     <link rel="stylesheet" href="<?= url ('') . mix('css/fontawesome.css') ?>">
     <link rel="stylesheet" href="<?= url ('') . mix('css/templatemo-digimedia-v3.css') ?>">
