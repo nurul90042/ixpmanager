@@ -182,7 +182,8 @@ if( !config( 'ixp_fe.frontend.disabled.docstore' ) ) {
 ///
 Route::get( '/', function() {
     if( Auth::guest() ) {
-        return redirect(route( "login@showForm" ) );
+        // return redirect(route( "login@showForm" ) );
+        return view("welcome");
     }
 
     if( Auth::getUser()->isSuperUser() ) {
