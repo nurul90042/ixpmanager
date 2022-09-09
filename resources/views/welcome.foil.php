@@ -79,7 +79,7 @@ https://templatemo.com/tm-568-digimedia
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
             <a href="/." class="logo">
-              <img src="<?= asset( "images/six/header1.png" ) ?>" alt="">
+              <img src="<?= asset( "images/six/xxArtboard 1 copy 14@3x.png" ) ?>" alt="">
             </a>
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
