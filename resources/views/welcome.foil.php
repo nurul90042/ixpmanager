@@ -76,8 +76,8 @@ https://templatemo.com/tm-568-digimedia
         <div class="col-12">
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
-            <a href="index.html" class="logo">
-              <img src="assets/images/logo-v3.png" alt="">
+            <a href="/." class="logo">
+              <img src="<?= asset( "images/six/header1.png" ) ?>" alt="">
             </a>
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
