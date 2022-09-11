@@ -17,8 +17,8 @@
     <link href="<?= url ('') . mix('vendor/bootstrap/css/bootstrap.min.css') ?>" rel="stylesheet">
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="<?= asset( "images/six/header1.png" ) ?>" type="image/x-icon" />
-    <link rel="apple-touch-icon" href="<?= asset( "images/six/header1.png" ) ?>">
+    <link rel="shortcut icon" href="<?= asset( "images/six/favicon1.png" ) ?>" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="<?= asset( "images/six/favicon1.png" ) ?>">
     <!-- Additional CSS Files -->
     <link rel="stylesheet" href="<?= url ('') . mix('css/fontawesome.css') ?>">
     <link rel="stylesheet" href="<?= url ('') . mix('css/templatemo-digimedia-v3.css') ?>">
@@ -79,7 +79,7 @@ https://templatemo.com/tm-568-digimedia
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
             <a href="/." class="logo">
-              <img src="<?= asset( "images/six/xxArtboard 1 copy 14@3x.png" ) ?>" alt="">
+              <img src="<?= asset( "images/six/front-logo.png" ) ?>" alt="" style="width:30%;">
             </a>
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
@@ -106,7 +106,7 @@ https://templatemo.com/tm-568-digimedia
   <div id="free-quote" class="free-quote">
     <div class="container">
       <div class="row">
-        <div class="col-lg-4 offset-lg-4">
+        <div class="col-lg-6 offset-lg-3">
           <div class="section-heading  wow fadeIn" data-wow-duration="1s" data-wow-delay="0.3s">
           <h4 style="width:100%;">Super Internet Exchange | SIX</h4>  
           <h6>Bertumbuh Bersama Kami</h6>
@@ -123,7 +123,7 @@ https://templatemo.com/tm-568-digimedia
 
 
 
-  <footer>
+  <footer style="background-color:#0098ef;">
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
@@ -136,12 +136,12 @@ https://templatemo.com/tm-568-digimedia
 
 
   <!-- Scripts -->
-  <script src="vendor/jquery/jquery.min.js"></script>
-  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/js/owl-carousel.js"></script>
-  <script src="assets/js/animation.js"></script>
-  <script src="assets/js/imagesloaded.js"></script>
-  <script src="assets/js/custom.js"></script>
+  <script src="<?= asset( 'vendor/jquery/jquery.min.js' ) ?>" ></script>
+  <script src="<?= asset( 'vendor/bootstrap/js/bootstrap.bundle.min.js' ) ?>"></script>
+  <script src="<?= asset( 'js/owl-carousel.js' ) ?>"></script>
+  <script src="<?= asset( 'js/animation.js' ) ?>"></script>
+  <script src="<?= asset( 'js/imagesloaded.js' ) ?>"></script>
+  <script src="<?= asset( 'js/custom.js' ) ?>"></script>
 
 </body>
 </html>
