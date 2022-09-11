@@ -78,8 +78,8 @@ https://templatemo.com/tm-568-digimedia
         <div class="col-12">
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
-            <a href="/." class="logo">
-              <img src="<?= asset( "images/six/front-logo.png" ) ?>" alt="" style="width:30%;">
+            <a href="/." class="logo col-6">
+              <img src="<?= asset( "images/six/front-logo.png" ) ?>" alt="" style="width:40%;">
             </a>
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->

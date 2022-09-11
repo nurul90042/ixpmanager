@@ -1957,6 +1957,8 @@ responsive
   }
   .header-area .main-nav .logo h4 {
     font-size: 20px;
+    width: 100%;
+
   }
   .main-banner .left-content {
     margin-right: 0px;
@@ -2023,6 +2025,7 @@ responsive
 @media (max-width: 767px) {
   .header-area .main-nav .logo h4 {
     font-size: 30px;
+    width: 100%;
   }
   .header-area .main-nav .logo h4 img {
     max-width: 30px;
