@@ -136,7 +136,7 @@ https://templatemo.com/tm-568-digimedia
               <div class="about-right-content">
                 <div class="section-heading">
                   <h6>Bergabung Bersama SuperIX</h6>
-                  <h4>Syarat & Ketentuan Untuk Bergabung Bersama<em>SuperIX</em></h4>
+                  <h4>Syarat & Ketentuan Untuk Bergabung Bersama<em> SuperIX</em></h4>
                   <div class="line-dec"></div>
                 </div>
               
