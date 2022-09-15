@@ -85,9 +85,8 @@ https://templatemo.com/tm-568-digimedia
             <!-- ***** Menu Start ***** -->
             <ul class="nav">
               <li class="scroll-to-section"><a href="#top" class="active">HOME</a></li>
-              <li class="scroll-to-section"><a href="#about">ABOUT</a></li>
-              <li class="scroll-to-section"><a href="#contact">CONTACT</a></li> 
-              <li class="scroll-to-section"><div class="border-first-button"><a href="<?= route( "login@showForm" )   ?>">Free Quote</a></div></li> 
+              <li class="scroll-to-section"><a href="https://superxchange.net/customer/details">ABOUT</a></li>
+              <li class="scroll-to-section"><a href="https://superxchange.net/public-content/support">CONTACT</a></li> 
             </ul>        
             <a class='menu-trigger'>
                 <span>Menu</span>
@@ -108,14 +107,15 @@ https://templatemo.com/tm-568-digimedia
       <div class="row">
         <div class="col-lg-6 offset-lg-3">
           <div class="section-heading  wow fadeIn" data-wow-duration="1s" data-wow-delay="0.3s">
-          <h4 style="width:100%;">Super Internet Exchange | SIX</h4>  
-          <h6>Bertumbuh Bersama Kami</h6>
+          <h4 style="width:100%;">Super Internet eXchange | SIX</h4>  
+          <h6>where connectivity matters</h6>
             
             <div class="line-dec"></div>
             
           </div>
         </div>
-        <p style="font-size:20px; color:white; text-align:center;">We are Batam Internet Exchange, neutral and aim to penetrate ipv6 development</p>
+        <p style="font-size:20px; color:white; text-align:center;">PoP utama kami berlokasi di IDCloudHost Data Center, Bogor.</p>
+        <p style="font-size:20px; color:white; text-align:center;">untuk bergabung ke SIX melalui Satellite PoP, klik halaman CONTACT</p>
         
       </div>
     </div>
@@ -127,8 +127,7 @@ https://templatemo.com/tm-568-digimedia
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <p>Copyright © 2022 DigiMedia Co., Ltd. All Rights Reserved. 
-          <br>Design: <a href="https://templatemo.com" target="_parent" title="free css templates">TemplateMo</a></p>
+          <p>Copyright © 2022 Super Internet eXchange</p>
         </div>
       </div>
     </div>
