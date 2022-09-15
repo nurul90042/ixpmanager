@@ -22,7 +22,7 @@
     <!-- Additional CSS Files -->
     <link rel="stylesheet" href="<?= url ('') . mix('css/fontawesome.css') ?>">
     <link rel="stylesheet" href="<?= url ('') . mix('css/templatemo-digimedia-v3.css') ?>">
-    <link rel="stylesheet" href="assets/css/" href="<?= url ('') . mix('css/animated.css') ?>">
+    <link rel="stylesheet" href="<?= url ('') . mix('css/animated.css') ?>">
     <link rel="stylesheet" href="<?= url ('') . mix('css/owl.css') ?>">
 <!--
 
