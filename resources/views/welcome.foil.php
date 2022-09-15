@@ -139,9 +139,14 @@ https://templatemo.com/tm-568-digimedia
                   <h4>Syarat & Ketentuan Untuk Bergabung Bersama<em>SuperIX</em></h4>
                   <div class="line-dec"></div>
                 </div>
-                <ul>
-                  <li>Memiliki ASN</li>
-                </ul>              
+              
+                <p>Memiliki ASN</p>
+                <p>Memiliki ASN</p>
+                <p>Memiliki ASN</p>
+                <p>Memiliki ASN</p>
+                <p>Memiliki ASN</p>
+                <p>Memiliki ASN</p>
+              
               </div>
             </div>
           </div>
