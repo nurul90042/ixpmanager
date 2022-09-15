@@ -135,15 +135,13 @@ https://templatemo.com/tm-568-digimedia
             <div class="col-lg-6 align-self-center  wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
               <div class="about-right-content">
                 <div class="section-heading">
-                  <h6>About Us</h6>
-                  <h4>Who is DigiMedia <em>Agency</em></h4>
+                  <h6>Bergabung Bersama SuperIX</h6>
+                  <h4>Syarat & Ketentuan Untuk Bergabung Bersama<em>SuperIX</em></h4>
                   <div class="line-dec"></div>
                 </div>
-                <p>We hope this DigiMedia template is useful for your work. You can use this template for any purpose. You may <a rel="nofollow" href="http://paypal.me/templatemo" target="_blank">contribute a little amount</a> via PayPal to <a href="https://templatemo.com/contact" target="_blank">support TemplateMo</a> in creating new templates regularly.</p>
-                <div class="row">
-                  
-                  
-                </div> 
+                <ul>
+                  <li>Memiliki ASN</li>
+                </ul>              
               </div>
             </div>
           </div>
