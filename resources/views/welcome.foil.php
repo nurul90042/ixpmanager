@@ -84,16 +84,9 @@ https://templatemo.com/tm-568-digimedia
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
             <ul class="nav">
-<<<<<<< HEAD
-              <li class="scroll-to-section"><a href="./" class="active">HOME</a></li>
-              <li class="scroll-to-section"><a href="#about">MEMBER REQUIREMENT</a></li>
-              <li class="scroll-to-section"><a href="#contact">JOIN US NOW</a></li> 
-              <li class="scroll-to-section"><div class="border-first-button"><a href="<?= route( "login@showForm" )   ?>">LOGIN</a></div></li> 
-=======
               <li class="scroll-to-section"><a href="#top" class="active">HOME</a></li>
               <li class="scroll-to-section"><a href="https://superxchange.net/customer/details">ABOUT</a></li>
               <li class="scroll-to-section"><a href="https://superxchange.net/public-content/support">CONTACT</a></li> 
->>>>>>> ba38516d43dac3df347fb77bbecea35d49c73627
             </ul>        
             <a class='menu-trigger'>
                 <span>Menu</span>
