@@ -140,7 +140,7 @@ https://templatemo.com/tm-568-digimedia
                   <div class="line-dec"></div>
                 </div>
               
-                <p>- Memiliki ASN yang sudah terdaftar pada PeeringDB<br>
+                <p style="color:black;">- Memiliki ASN yang sudah terdaftar pada PeeringDB<br>
                 - Pastikan email yang terdaftar dapat digunakan<br>
                 - Kontak NOC 24x7<br>
                 - Menyetujui seluruh ketentuan yang berlaku bersama member SuperIX lainnya</p>
