@@ -84,7 +84,8 @@ https://templatemo.com/tm-568-digimedia
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
             <ul class="nav">
-              <li class="scroll-to-section"><a href="#top" class="active">HOME</a></li>
+              <li class="scroll-to-section"><a href="./" class="active">HOME</a></li>
+              <li class="scroll-to-section"><a href="">MEMBER REQUIREMENT</a></li>
               <li class="scroll-to-section"><a href="https://superxchange.net/customer/details">ABOUT</a></li>
               <li class="scroll-to-section"><a href="https://superxchange.net/public-content/support">CONTACT</a></li> 
             </ul>        
@@ -121,7 +122,35 @@ https://templatemo.com/tm-568-digimedia
     </div>
   </div>
 
-
+  <div id="about" class="about section">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="row">
+            <div class="col-lg-6">
+              <div class="about-left-image  wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
+                <img src="<?= asset( "images/about-dec-v3.png" ) ?>"  alt="">
+              </div>
+            </div>
+            <div class="col-lg-6 align-self-center  wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
+              <div class="about-right-content">
+                <div class="section-heading">
+                  <h6>About Us</h6>
+                  <h4>Who is DigiMedia <em>Agency</em></h4>
+                  <div class="line-dec"></div>
+                </div>
+                <p>We hope this DigiMedia template is useful for your work. You can use this template for any purpose. You may <a rel="nofollow" href="http://paypal.me/templatemo" target="_blank">contribute a little amount</a> via PayPal to <a href="https://templatemo.com/contact" target="_blank">support TemplateMo</a> in creating new templates regularly.</p>
+                <div class="row">
+                  
+                  
+                </div> 
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <footer style="background-color:#0098ef;">
     <div class="container">
