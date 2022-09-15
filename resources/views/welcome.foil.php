@@ -84,10 +84,10 @@ https://templatemo.com/tm-568-digimedia
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
             <ul class="nav">
-              <li class="scroll-to-section"><a href="#top" class="active">HOME</a></li>
-              <li class="scroll-to-section"><a href="#about">ABOUT</a></li>
-              <li class="scroll-to-section"><a href="#contact">CONTACT</a></li> 
-              <li class="scroll-to-section"><div class="border-first-button"><a href="<?= route( "login@showForm" )   ?>">Free Quote</a></div></li> 
+              <li class="scroll-to-section"><a href="./" class="active">HOME</a></li>
+              <li class="scroll-to-section"><a href="#about">MEMBER REQUIREMENT</a></li>
+              <li class="scroll-to-section"><a href="#contact">JOIN US NOW</a></li> 
+              <li class="scroll-to-section"><div class="border-first-button"><a href="<?= route( "login@showForm" )   ?>">LOGIN</a></div></li> 
             </ul>        
             <a class='menu-trigger'>
                 <span>Menu</span>
@@ -136,12 +136,14 @@ https://templatemo.com/tm-568-digimedia
 
 
   <!-- Scripts -->
-  <script src="<?= asset( 'vendor/jquery/jquery.min.js' ) ?>" ></script>
-  <script src="<?= asset( 'vendor/bootstrap/js/bootstrap.bundle.min.js' ) ?>"></script>
-  <script src="<?= asset( 'js/owl-carousel.js' ) ?>"></script>
-  <script src="<?= asset( 'js/animation.js' ) ?>"></script>
-  <script src="<?= asset( 'js/imagesloaded.js' ) ?>"></script>
-  <script src="<?= asset( 'js/custom.js' ) ?>"></script>
+ <!-- Scripts -->
+ <script src="<?= url ('') . mix('vendor/jquery/jquery.min.js') ?>"></script>
+  <script src="<?= url ('') . mix('vendor/bootstrap/js/bootstrap.bundle.min.js') ?>"></script>
+  <script src="<?= url ('') . mix('js/owl-carousel.js') ?>"></script>
+
+  <script src="<?= url ('') . mix('js/animation.js') ?>"></script>
+  <script src="<?= url ('') . mix('js/imagesloaded.js') ?>"></script>
+  <script src="<?= url ('') . mix('js/custom.js') ?>"></script>
 
 </body>
 </html>
