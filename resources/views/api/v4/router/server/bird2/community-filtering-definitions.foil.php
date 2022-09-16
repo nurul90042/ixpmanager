@@ -61,15 +61,13 @@ define IXP_LC_INFO_SAME_AS_NEXT_HOP = ( routeserverasn, 1001, 1200 );
 filter f_export_to_master
 {
 
-    if bgp_large_community ~ [( routeserverasn, 1101, * )] then reject;
+    <!-- if bgp_large_community ~ [( routeserverasn, 1101, * )] then reject; -->
 
     accept;
 }
 
 filter f_import_to_master
 {
-
-    if bgp_large_community ~ [( routeserverasn, 1101, * )] then reject;
 
     accept;
 }
