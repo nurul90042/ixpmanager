@@ -142,7 +142,7 @@ https://templatemo.com/tm-568-digimedia
               
                 <p style="color:black;">- Memiliki ASN yang sudah terdaftar pada PeeringDB<br>
                 - Pastikan email yang terdaftar dapat digunakan<br>
-                - Melakukan pengisian form registrasi <a href="https://forms.office.com/r/PKENLjVcY9">disini.</a><br>
+                - Melakukan pengisian form registrasi <a href="https://forms.office.com/r/PKENLjVcY9" target="_blank">disini.</a><br>
                 - Kontak NOC 24x7<br>
                 - Menyetujui seluruh ketentuan yang berlaku bersama member SuperIX lainnya</p>
                 
