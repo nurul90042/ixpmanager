@@ -52,6 +52,7 @@ template bgp tb_rsclient {
 <?php endif; ?>
 
     <?= $t->ipproto ?> {
+        import all;
         export all;
 <?php if( $t->router->protocol == 6 ): ?>
         missing lladdr ignore;
