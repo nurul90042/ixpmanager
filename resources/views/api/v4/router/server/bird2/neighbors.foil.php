@@ -64,7 +64,6 @@ $asn_filters = [];
 
 
 <?= $t->ipproto ?> table t_<?= $int['fvliid'] ?>_as<?= $int['autsys'] ?>;
-
 <?php
     if( !in_array( $int['autsys'], $asn_filters ) ):
 
@@ -245,7 +244,6 @@ filter f_export_as<?= $int['autsys'] ?>
 
 
     # we should strip our own communities which we used for the looking glass
-
     # default position is to accept:
     accept;
 
@@ -264,18 +262,17 @@ protocol pipe pp_<?= $int['fvliid'] ?>_as<?= $int['autsys'] ?> {
         description "Pipe for AS<?= $int['autsys'] ?> - <?= $int['cname'] ?> - VLAN Interface <?= $int['vliid'] ?>";
         table master<?= $t->router->protocol ?>;
         peer table t_<?= $int['fvliid'] ?>_as<?= $int['autsys'] ?>;
-        import filter f_export_to_master;
-        export where ixp_community_filter(<?= $int['autsys'] ?>);
+import all;       
+export all;       
+
 }
 
 protocol bgp pb_<?= $int['fvliid'] ?>_as<?= $int['autsys'] ?> from tb_rsclient {
         description "AS<?= $int['autsys'] ?> - <?= $int['cname'] ?>";
         neighbor <?= $int['address'] ?> as <?= $int['autsys'] ?>;
         <?= $t->ipproto ?> {
-            import limit <?= $int['maxprefixes'] ?> action restart;
-            import filter f_import_as<?= $int['autsys'] ?>;
-            table t_<?= $int['fvliid'] ?>_as<?= $int['autsys'] ?>;
-            export filter f_export_as<?= $int['autsys'] ?>;
+import all;
+export all;
         };
         <?php if( $int['bgpmd5secret'] && !$t->router->skip_md5 ): ?>password "<?= $int['bgpmd5secret'] ?>";<?php endif; ?>
 

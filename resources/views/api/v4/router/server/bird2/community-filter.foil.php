@@ -75,6 +75,7 @@ function ixp_community_filter(int peerasn)
 
     # Implement widely used community filtering schema.
 
-    return true;
+        return true;
+    
 }
 

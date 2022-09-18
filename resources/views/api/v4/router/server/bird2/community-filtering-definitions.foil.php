@@ -66,11 +66,6 @@ filter f_export_to_master
     accept;
 }
 
-filter f_import_to_master
-{
-    if bgp_large_community ~ [( routeserverasn, 1101, * )] then reject;
-    accept;
-}
 
 
 
